@@ -27,16 +27,4 @@ Welcome to our major UI/UX project - the Food Ordering Application! This startup
 
 Explore the full UI/UX design on Figma: https://www.figma.com/file/AjZMtIaJO1NoobpakEkWro/LE-GIt?type=design&node-id=0%3A1&mode=design&t=MduQSu1qaFvpW9s5-1
 
-## Medium Blog
-
-Read our Medium blog to learn more about the project's journey and design process: https://medium.com/@saishmirajkar0/67945728f144
-
-Feel free to check out the Figma designs and the Medium blog to dive deeper into our food ordering application UI/UX project. We are thrilled to share this innovative solution with you and hope it inspires future projects in the field of UI/UX design. Happy exploring!
-
-For any inquiries or feedback, please reach out to us:
-
-- Email: saishmirajkar0@gmail.com
-- Discord: https://discord.com/users/saish7147 
-- Twitter: https://twitter.com/saishmirajkar1
-- GitHub: https://github.com/saishmirajkar
 
